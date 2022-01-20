@@ -1,0 +1,9 @@
+This is a Web Portal to check Social Engineering Score of a Web Surfer.
+
+Languages Used:
+	HTML
+	CSS
+	PHP
+	Bootstrap
+
+You need a Local/Remote server to run this Web Application.
